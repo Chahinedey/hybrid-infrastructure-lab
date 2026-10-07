@@ -1,4 +1,4 @@
-# Hybrid IT Infrastructure & System Administration Lab
+﻿# Hybrid IT Infrastructure & System Administration Lab
 
 ## Overview
 
@@ -106,3 +106,20 @@ Detect ? Diagnose ? Root Cause ? Fix ? Verify
 ## Skills Demonstrated
 
 VMware Workstation, TCP/IP, NAT, static addressing, Windows Server, Active Directory, DNS, Group Policy, PowerShell, SMB, NTFS, Ubuntu Server, Linux permissions, SSH, UFW, Nginx, Samba, Bash, systemd, backup and recovery, monitoring, troubleshooting, Git, and technical documentation.
+
+<!-- SCREENSHOT-EVIDENCE-START -->
+
+## Screenshot Evidence
+
+The lab is supported by **37 screenshots** documenting configuration, validation, security controls, cross-platform services, automation, backup/restore testing, and controlled troubleshooting incidents.
+
+The complete evidence gallery is available here:
+
+**[View the complete screenshot evidence →](docs/evidence.md)**
+
+Raw evidence files are stored in:
+
+`screenshots/raw/`
+
+<!-- SCREENSHOT-EVIDENCE-END -->
+
